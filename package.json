@@ -1,0 +1,11 @@
+{
+  "name": "Spidey",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "spideybot.js",
+  "author": "Brayde Spain"
+  "dependencies": {}
+}
+  
+  
+  
