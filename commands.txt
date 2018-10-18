@@ -8,3 +8,4 @@ anyone can access this file
 !hello = says hello
 !stupid = just do it
 !ping = pong
+!spidey = spidey meme
