@@ -1,0 +1,9 @@
+This is a list of all the commands for Spidey
+
+!rick = rickroll
+!roast = roast kyle
+!potato = roast zach
+!jester = roast kyle
+!hello = says hello
+!stupid = just do it
+!ping = pong
