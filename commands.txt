@@ -12,3 +12,6 @@ anyone can access this file
 !wife = roast Brayde
 !jedi = roast Josh
 !kevin = roast Kevin
+!zach = roast zach
+!ethan = roast ethan
+!josh = roast josh
